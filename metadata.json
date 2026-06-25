@@ -1,0 +1,14 @@
+{
+  "name": "storvana",
+  "description": "Professional learning codebase built with TypeScript.",
+  "topics": [
+    "typescript",
+    "learning",
+    "optimized-portfolio"
+  ],
+  "homepage_url": "https://github.com/mohitlakhara-ind/storvana",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
+}
